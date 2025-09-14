@@ -1,8 +1,12 @@
-# Package Pal Website
+# Package-Pal
+
+Our solution includes two fully functional working prototype collaborative robots, or cobots, namely the HelpingHandBot and Package Pal, that are designed to be the perfect aid to drivers with disabilities, especially in the Last Mile Delivery area.
+
+## 🌟 About Package Pal
 
 A modern, responsive website showcasing Package Pal - an innovative robotic assistant designed to help disabled drivers with package delivery.
 
-## 🌟 Features
+## 🚀 Features
 
 - **Responsive Design**: Works perfectly on all devices (desktop, tablet, mobile)
 - **Modern UI/UX**: Clean, professional design with smooth animations

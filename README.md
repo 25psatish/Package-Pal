@@ -4,7 +4,7 @@ Our solution includes two fully functional working prototype collaborative robot
 
 ## 🌟 About Package Pal
 
-A modern, responsive website showcasing Package Pal - an innovative robotic assistant designed to help disabled drivers with package delivery.
+A modern, responsive website showcasing Package Pal - an innovative robotic assistant designed to help disabled drivers in the last mile delivery space.
 
 ## 🚀 Features
 
